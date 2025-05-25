@@ -4,7 +4,7 @@ A web application for Purdue Students that seamlessly combines exercise and nutr
 Specialized dining court integration features are included for students @ Purdue.
 
 ## Contributing
-~~If you are interested in contributing, reach out to `youngyu2002@gmail.com`.~~ This project has currently been paused. If you are interested in extending it, you will need to:
+~~If you are interested in contributing, reach out to `sanghmitra1207@gmail.com`.~~ This project has currently been paused. If you are interested in extending it, you will need to:
 1. Fork the repo
 2. Set up your own MongoDB Atlas database instance
 3. Fill in the required fields in the `./backend/.env` file (see [./backend/.env.example](./backend/.env.example) for the required fields).
@@ -17,7 +17,7 @@ We used [yarn](https://yarnpkg.com/) as the package manager for our application.
 ## Running the Application
 
 ### Set up the environment Variables
-The environment variables for the backend server will need to be configured before running the application. See the [Environment Variables for the Backend Server](https://github.com/youngbryanyu/titan-health-app/blob/main/README.md#environment-variables-for-the-backend-server) section for steps on setting up the `.env` file for environment variables.
+The environment variables for the backend server will need to be configured before running the application. See the [Environment Variables for the Backend Server](https://github.com/sanghmitra12/titan-health-app/blob/main/README.md#environment-variables-for-the-backend-server) section for steps on setting up the `.env` file for environment variables.
 
 ### Running the Backend (Server)
 Navigate to the `/backend` directory. Before starting the server, run `yarn` to update existing node modules or install any missing node module dependencies. Then run `yarn start` to start the backend server. 
@@ -99,16 +99,16 @@ Like mentioned earlier in the section about how to run the application locally, 
 Below are screenshots of some of the pages within our site as a preview! **Note that many of the pages in the site our not shown (such as the fitness and health tracker related pages)**, and these are just a showcase of some of the UI.
 
 #### Meal Tracker Page
-<img width="1438" alt="Meal Tracker Page" src="https://github.com/youngbryanyu/titan-health-app/assets/32204448/36d84a49-e2f5-46e2-8335-d17a3368ae4a">
+<img width="1438" alt="Meal Tracker Page" src="https://github.com/sanghmitra12/titan-health-app/assets/32204448/36d84a49-e2f5-46e2-8335-d17a3368ae4a">
 
 #### Dining Court Menu Page
-<img width="1437" alt="Dining Court Menu Page" src="https://github.com/youngbryanyu/titan-health-app/assets/32204448/74240620-74b1-4fcd-adc4-c5a19600cabb">
+<img width="1437" alt="Dining Court Menu Page" src="https://github.com/sanghmitra12/titan-health-app/assets/32204448/74240620-74b1-4fcd-adc4-c5a19600cabb">
 
 #### Dining Court Menu Item Page
-<img width="1440" alt="Dining Court Menu Item Page" src="https://github.com/youngbryanyu/titan-health-app/assets/32204448/db37c535-321d-45ad-9184-a826891c2ad0">
+<img width="1440" alt="Dining Court Menu Item Page" src="https://github.com/sanghmitra12/titan-health-app/assets/32204448/db37c535-321d-45ad-9184-a826891c2ad0">
 
 #### Dietary Preferences Page
-<img width="1440" alt="Dietary Preferences Page" src="https://github.com/youngbryanyu/titan-health-app/assets/32204448/eb6b4734-ea34-439f-a916-22af63b3c6f9">
+<img width="1440" alt="Dietary Preferences Page" src="https://github.com/sanghmitra12/titan-health-app/assets/32204448/eb6b4734-ea34-439f-a916-22af63b3c6f9">
 
 #### Home Page
 <img width="1440" alt="Home Page" src="https://github.com/youngbryanyu/titan-health-app/assets/32204448/aaa9c1fb-fa5d-4548-98a4-3df89bd835df">
